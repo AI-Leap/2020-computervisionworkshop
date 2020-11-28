@@ -1,0 +1,24 @@
+#check python and conda version
+python --version
+conda --version
+
+#create new virtual environment
+conda create --name cvworkshop
+
+#activate the environment
+conda activate cvworkshop (window) 
+(OR) 
+source activate cvworkshop (mac)
+
+#install pip
+conda install pip
+
+#check installed library/package
+pip list
+
+#install library/package
+pip install [library/package]
+pip install jupyter notebook
+
+#run jupyter notebook
+jupyter notebook
