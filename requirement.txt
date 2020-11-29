@@ -22,3 +22,5 @@ pip install jupyter notebook
 
 #run jupyter notebook
 jupyter notebook
+
+pip install numpy,pandas,keras,scikit-learn,matplotlib,seaborn,opencv_python
